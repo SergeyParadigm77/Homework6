@@ -81,5 +81,6 @@ public class Main {
         for (byte i = 1; i <= 10; i++) {
             System.out.println(a + "*" + i + "=" + a * i);
         }
+        System.out.print("Домашка выполнена!");
     }
 }
